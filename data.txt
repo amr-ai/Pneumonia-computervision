@@ -1,0 +1,2 @@
+the data is very big so 
+https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
